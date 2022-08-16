@@ -1,0 +1,19 @@
+{
+  "name": "eslint-config-tonywoode",
+  "version": "1.0.0",
+  "description": "personal eslint prefs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "eslint-config-tonywoode"
+  },
+  "keywords": [
+    "eslint",
+    "config"
+  ],
+  "author": "tonywoode",
+  "license": "ISC"
+}
